@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Barber Desktop Demo](./readme-images/desktop.webp "Desktop Demo")
+![Barber Desktop Demo](./barber-master/readme-images/desktop.webp "Desktop Demo")
 
 ### Prerequisites
 
